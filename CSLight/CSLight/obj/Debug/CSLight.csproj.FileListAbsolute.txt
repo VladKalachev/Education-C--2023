@@ -1,0 +1,8 @@
+C:\dev\Education-C--2023\CSLight\CSLight\bin\Debug\CSLight.exe.config
+C:\dev\Education-C--2023\CSLight\CSLight\bin\Debug\CSLight.exe
+C:\dev\Education-C--2023\CSLight\CSLight\bin\Debug\CSLight.pdb
+C:\dev\Education-C--2023\CSLight\CSLight\obj\Debug\CSLight.csproj.AssemblyReference.cache
+C:\dev\Education-C--2023\CSLight\CSLight\obj\Debug\CSLight.csproj.SuggestedBindingRedirects.cache
+C:\dev\Education-C--2023\CSLight\CSLight\obj\Debug\CSLight.csproj.CoreCompileInputs.cache
+C:\dev\Education-C--2023\CSLight\CSLight\obj\Debug\CSLight.exe
+C:\dev\Education-C--2023\CSLight\CSLight\obj\Debug\CSLight.pdb
