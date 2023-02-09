@@ -14,7 +14,7 @@ namespace CSLight
             Console.ReadKey();
 
             // Основные типы
-            // Целочисленные типы int
+            // Целочисленные типы int | float
 
             byte a;    // 0 до 255
             sbyte b;    // -128 до 127
@@ -29,6 +29,10 @@ namespace CSLight
             float f2;
             double d2;
 
+            // Символьный тип
+            char c2;
+            // Строковый тип
+            string s2;
         }
     }
 }
