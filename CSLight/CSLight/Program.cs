@@ -33,7 +33,6 @@ namespace CSLight
             char c2;
             // Строковый тип
             string s2;
-
         }
     }
 }
