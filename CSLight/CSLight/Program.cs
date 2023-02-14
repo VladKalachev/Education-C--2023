@@ -32,7 +32,7 @@ namespace CSLight
             // Символьный тип
             char c2;
             // Строковый тип
-            string s2;
+            string s2 = "string";
 
         }
     }
